@@ -7,5 +7,6 @@
 <body>
     <?php $helloWorld = ucwords("hello world"); ?>
     <?php echo $helloWorld; ?>
+    <p>This is just a simple exercise to see how Github works :) </p>
 </body>
 </html>
