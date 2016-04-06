@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hello World</title>
+    <title>Hello World By Paul Brown</title>
 </head>
 <body>
     <?php $helloWorld = ucwords("hello world"); ?>
