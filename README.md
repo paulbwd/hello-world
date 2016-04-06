@@ -7,7 +7,7 @@ Im currently learning Javascript / node Js / Angular Js / and all the funky stuf
 
 inluding version control using Git and Github. :)
 
-Following my blog at http://www.highspec-computers.co.uk/blog
+Follow my Programming blog at http://www.highspec-computers.co.uk/blog
 
 Paul B
 @paulBrown_Tw
